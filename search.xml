@@ -8,7 +8,7 @@
       <link href="/2024/04/12/FreeRTOS/"/>
       <url>/2024/04/12/FreeRTOS/</url>
       
-        <content type="html"><![CDATA[<img src="/images/FreeRTOS/test02.jpg" alt="test02" style="zoom: 67%;" />]]></content>
+        <content type="html"><![CDATA[<h1 id="FreeRTOS基础知识"><a href="#FreeRTOS基础知识" class="headerlink" title="FreeRTOS基础知识"></a>FreeRTOS基础知识</h1><h2 id="1、什么是-FreeRTOS"><a href="#1、什么是-FreeRTOS" class="headerlink" title="1、什么是 FreeRTOS?"></a>1、什么是 FreeRTOS?</h2><ul><li>实时操作系统</li></ul><h2 id="2、FreeRTOS-特点？"><a href="#2、FreeRTOS-特点？" class="headerlink" title="2、FreeRTOS 特点？"></a>2、FreeRTOS 特点？</h2><ul><li>内核支持抢占式、合作式和时间片调度</li><li>支持Corex-M系列</li><li>占用存储小，内核4k-9k字节</li><li>移植性能好</li><li>任务与任务、任务与中断之间可以使用任务通知、消息队列、二值信号量、数值型信<br>号量、递归互斥信号量和互斥信号量进行通信和同步</li><li>具有优先级继承特性的互斥信号量</li><li>任务数量不限、任务优先级不限</li></ul>]]></content>
       
       
       
